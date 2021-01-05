@@ -104,7 +104,7 @@
                 </children>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_fGLAHjMNEeuC_piOnk6nTw" containerData="7500" selectedElement="_fGLAKDMNEeuC_piOnk6nTw">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_fGLAHjMNEeuC_piOnk6nTw" containerData="7500" selectedElement="_fGLAHzMNEeuC_piOnk6nTw">
               <children xsi:type="basic:PartSashContainer" xmi:id="_fGLAHzMNEeuC_piOnk6nTw" containerData="6561" selectedElement="_fGLAIDMNEeuC_piOnk6nTw" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_fGLAIDMNEeuC_piOnk6nTw" elementId="org.eclipse.ui.editorss" containerData="7500" ref="_fEryUDMNEeuC_piOnk6nTw"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_fGLAITMNEeuC_piOnk6nTw" containerData="2500" selectedElement="_fGLAJDMNEeuC_piOnk6nTw">
@@ -134,7 +134,6 @@
               <children xsi:type="basic:PartStack" xmi:id="_fGLAKDMNEeuC_piOnk6nTw" elementId="bottom" containerData="3439" selectedElement="_fGLALTMNEeuC_piOnk6nTw">
                 <tags>org.eclipse.e4.secondaryDataStack</tags>
                 <tags>Java</tags>
-                <tags>active</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_fGLAKTMNEeuC_piOnk6nTw" elementId="org.eclipse.ui.views.ProblemView" ref="_fFRoMzMNEeuC_piOnk6nTw" closeable="true">
                   <tags>View</tags>
                   <tags>categoryTag:General</tags>
@@ -215,6 +214,7 @@
       <children xsi:type="basic:PartStack" xmi:id="_fEryUTMNEeuC_piOnk6nTw" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_SjMDgDvHEeuCwrBfZvLD6A">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
+        <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_BLafYDvHEeuCwrBfZvLD6A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Frontaccounting_test.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Frontaccounting_test.java&quot; partName=&quot;Frontaccounting_test.java&quot; title=&quot;Frontaccounting_test.java&quot; tooltip=&quot;Advancedautomation/src/test/java/propertyfile/Frontaccounting_test.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Advancedautomation/src/test/java/propertyfile/Frontaccounting_test.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;283&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -222,10 +222,12 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_SjMDgDvHEeuCwrBfZvLD6A" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="OrangeHRM_test.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;OrangeHRM_test.java&quot; partName=&quot;OrangeHRM_test.java&quot; title=&quot;OrangeHRM_test.java&quot; tooltip=&quot;Advancedautomation/src/test/java/propertyfile/OrangeHRM_test.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Advancedautomation/src/test/java/propertyfile/OrangeHRM_test.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1409&quot; selectionTopPixel=&quot;143&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;OrangeHRM_test.java&quot; partName=&quot;OrangeHRM_test.java&quot; title=&quot;OrangeHRM_test.java&quot; tooltip=&quot;Advancedautomation/src/test/java/propertyfile/OrangeHRM_test.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Advancedautomation/src/test/java/propertyfile/OrangeHRM_test.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;908&quot; selectionTopPixel=&quot;224&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_72xYIDvVEeu-UIRmqTW9Sg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Advancedautomation/pom.xml" iconURI="platform:/plugin/org.eclipse.m2e.editor/icons/editor-pom.gif" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.m2e.editor.MavenPomEditor&quot; name=&quot;pom.xml&quot; partName=&quot;Advancedautomation/pom.xml&quot; title=&quot;Advancedautomation/pom.xml&quot; tooltip=&quot;Advancedautomation/pom.xml&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Advancedautomation/pom.xml&quot;/>&#xD;&#xA;&lt;/editor>"/>
@@ -319,8 +321,6 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_BCU3wDeIEeugP_eaGvTuRw" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -392,7 +392,7 @@
       <tags>View</tags>
       <tags>categoryTag:Ant</tags>
     </sharedElements>
-    <sharedElements xsi:type="basic:Part" xmi:id="_MyLeMDeVEeugP_eaGvTuRw" elementId="org.testng.eclipse.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="TestNG" iconURI="platform:/plugin/org.testng.eclipse/icons/full/main16/testng_blur.gif" tooltip="" closeable="true">
+    <sharedElements xsi:type="basic:Part" xmi:id="_MyLeMDeVEeugP_eaGvTuRw" elementId="org.testng.eclipse.ResultView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Results of running class OrangeHRM_test" iconURI="platform:/plugin/org.testng.eclipse/icons/full/main16/testng_blur.gif" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewBundle" value="org.testng.eclipse"/>
       <persistedState key="originalCompatibilityViewClass" value="org.testng.eclipse.ui.TestRunnerViewPart"/>
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view FailureRunView.tab.title.ratio=&quot;500&quot; HierarchyRunView.tab.title.ratio=&quot;500&quot; orientation=&quot;2&quot; page=&quot;0&quot;/>"/>
@@ -411,7 +411,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dsKgMDMNEeuC_piOnk6nTw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Be2RoExCEeuatutoV1dz5Q" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_buJU7DMNEeuC_piOnk6nTw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MTB60E6QEeu05ZSjTdcOZw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_buJU7DMNEeuC_piOnk6nTw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dsKgMTMNEeuC_piOnk6nTw" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -442,7 +442,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dsKgODMNEeuC_piOnk6nTw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_BfDtAExCEeuatutoV1dz5Q" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_buJUpDMNEeuC_piOnk6nTw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_MTLEw06QEeu05ZSjTdcOZw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_buJUpDMNEeuC_piOnk6nTw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_dsKgOTMNEeuC_piOnk6nTw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
